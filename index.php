@@ -30,7 +30,7 @@ $array_questions = [
 ?>
 
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="it" dir="ltr">
   <head>
     <meta charset="utf-8">
     <title>php-google-faq</title>
